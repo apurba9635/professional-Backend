@@ -1,0 +1,11 @@
+{
+  "name": "production-backend",
+  "version": "1.0.0",
+  "description": "a production based backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyank",
+  "license": "ISC"
+}
