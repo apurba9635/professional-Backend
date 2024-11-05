@@ -9,3 +9,5 @@
 # git add .
 
 # git commit -m "add initial files"
+
+# git branch -M main (TO CHANGE MAIN BRANCH)
